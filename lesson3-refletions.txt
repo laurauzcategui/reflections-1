@@ -1,1 +1,3 @@
 Remote repositories lesson.
+
+In this lesson should be your reflections about lesson 3, such as, what is a pull, push, merge and differences between them.
